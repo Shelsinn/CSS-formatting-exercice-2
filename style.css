@@ -1,0 +1,87 @@
+body {
+  font-family: "Lucida Sans";
+  font-size: 16px;
+  padding: 50px;
+}
+
+body main {
+  background-color: beige;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 2px;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1 {
+  background-color: blanchedalmond;
+}
+
+h2 {
+  position: absolute;
+  background-color: yellow;
+  width: fit-content;
+}
+
+h3 {
+  background-color: grey;
+  text-align: center;
+  font-size: 1.2rem;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+h4 {
+  background-color: lightgrey;
+  font-size: 1rem;
+}
+
+p {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.pdiv {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: green;
+  font-size: 0.8rem;
+  padding: 5em;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 5px;
+}
+
+.pdiv p {
+  inline-size: 350px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span {
+  font-weight: bolder;
+  font-size: 1rem;
+}
+
+.p1 {
+  margin-left: 160px;
+}
+
+.p3 {
+  margin-left: 160px;
+}
+
+.p4 {
+  margin-left: 160px;
+}
+
+.p5 {
+  margin-left: 160px;
+}
